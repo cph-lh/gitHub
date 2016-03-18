@@ -41,14 +41,18 @@ final class StaticWordLibrary extends WordLibrary {
         "tiger",
         "monkey",
         "giraffe",
-        "elephant"};
+        "elephant",
+        "lion",
+        "zebra"};
 
     private static final String[] SCRAMBLED_WORD_LIST = {
         "ohers",
         "gitre",
         "nykome",
         "eifragf",
-        "lpatnehe"};
+        "lpatnehe",
+        "inol",
+        "bzrea"};
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
 
